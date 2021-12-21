@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+  <head>
+     <title>What causes the spread of misinformation?</title>
+	 
+     <meta charset="utf-8">
+	 
+	 <meta name="author" content="My Name">
+
+     <meta name="keywords" content="HTML, CSS, JavaScript">
+
+     <meta name="revised" content="28-06-2020">
+
+     <link href="..\css.css" rel="stylesheet" type = "text/css">
+	 
+  </head> 
+  
+  <body>
+     <!-- I was unable to put css on top of htdocs, it would keep on going right below mmfiles whenever I closed file explorer -->
+     <nav>
+		     <ul>
+			     <li><a href = "..\index.html"> return to home page </a></li>
+			 </ul>
+	 </nav>
+	
+	
+     <header>
+     <h1> What causes the spread of misinformation? </h1>
+	 <p> In this essay, we will be discussing the motivators and the means for the spread of misinformation, starting off with the motivators. <br>
+	 Every now and then, a person or group of people will see a chance to spread misinformation about another person or group of people, usually in the form of controversy/slander or praise.
+	 Often, this is done in order to provide financial, personal or political gain, but it is also rarely done simpyl as an act of spite. More often than not, the main reason misinformationspreads is 
+	 because many people genuinely believe that the information presented to them is true, and then feel compelled to share said information. <br> <br>
+	 Of course, because of how easy it is to spread ideas with the use of social media, misinformation has become more of a problem now than before.</p>
+	 </header>
+	 
+	 <section>
+	 <div>
+	 <h1> Example of the process of misinformation </h1>
+	 <p> Let's say that there are 2 people: person A, who owns company A, and person B, who owns company B. Both companies sell water bottles, and as such, are rivals. 
+     Person A, in an attempt to slander company B, instructs someone to buy a company B water bottle, put some maggots in it, seal it and film the discovery in the store that the 
+	 company B water bottle was found in. Said person would then upload the video on the internet, and the resulting controversy would give more customers to company A, even if only temporarily.
+	 </p>
+	 </div>
+	 </section>
+	 
+	 <aside>
+	 <img src="..\images\company_rivals.jpg" alt="This is a picture of rivals">
+	 
+	 <p> For more examples of misinformation and the process through which it spreads, look to the video below. </p>
+		 
+	 <video controls autoplay> 
+		 <source src =  "..\mmfiles\misinformation.mp4" type = "video/mp4">
+	 </video>
+	 </aside>
+	 
+	 <footer>
+		     <hr/>
+			 Sources: 
+			 1. TED-Ed. “Why People Fall for Misinformation - Joseph Isaac.” YouTube, 3 Sept. 2020, www.youtube.com/watch?v=hz6GULbowAk. (Video) <br>
+			 2. Stevens-HuffmanSeptember 20, L., & Read, 20184 M. (2018, September 20). The Surprising Benefits of Having a Professional Rivalry. Dice Insights. 
+			 https://insights.dice.com/2018/09/20/the-surprising-benefits-of-having-a-professional-rivalry/ (Image)
+			 
+			 
+		     Copyright (C) 2020. All right reserved.
+	 </footer>
+		 
+		 
+	 
+  </body>
+  
+</html>
